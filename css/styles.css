@@ -1,0 +1,26 @@
+/* TAG SELECTOR */
+
+body {
+  background-color: #EAF6F6;
+}
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  height: 0;
+  width: 5%;
+}
+h1, h3 {
+  color: #66BFBF;
+}
+img {
+  border-radius: 100%;
+  width: 100%;
+}
+
+/* CLASS SELECTOR */
+
+.img-table{
+  width: 20%;
+}
